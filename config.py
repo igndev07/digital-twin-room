@@ -1,0 +1,3 @@
+ALPHA = 0.02
+VX = 0.3
+GRID_SIZE = 50
